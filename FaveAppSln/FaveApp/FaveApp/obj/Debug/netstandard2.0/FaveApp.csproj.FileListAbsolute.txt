@@ -1,0 +1,5 @@
+C:\Users\Simone Hendricks\Documents\GitHub\FaveApp\FaveAppSln\FaveApp\FaveApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Simone Hendricks\Documents\GitHub\FaveApp\FaveAppSln\FaveApp\FaveApp\obj\Debug\netstandard2.0\Lipstick.xaml.g.cs
+C:\Users\Simone Hendricks\Documents\GitHub\FaveApp\FaveAppSln\FaveApp\FaveApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Simone Hendricks\Documents\GitHub\FaveApp\FaveAppSln\FaveApp\FaveApp\obj\Debug\netstandard2.0\FaveApp.AssemblyInfoInputs.cache
+C:\Users\Simone Hendricks\Documents\GitHub\FaveApp\FaveAppSln\FaveApp\FaveApp\obj\Debug\netstandard2.0\FaveApp.AssemblyInfo.cs
